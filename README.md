@@ -1,6 +1,6 @@
 # Ask Me Anything!
 
-Hi, I'm Bradley, I run the twitch learning stream Lets Learn Lots.
+Hi, I'm Bradley, I run the twitch learning stream [Lets Learn Lots](https://twitch.tv/letslearnlots).
 
 Want to know something about programming, tech, agile, lean, the industry, me, you or anything else?
 
